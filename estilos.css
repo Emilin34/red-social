@@ -3,7 +3,7 @@
 	background: #2CA0A4;
 	height: 180px;
 	border-radius: 15px;
-	display: inline-flex;
+	display: inline-block;
 }
 .segundo {
 	width: 100%;
