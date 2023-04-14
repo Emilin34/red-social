@@ -61,6 +61,7 @@ h4 {
 }
 .fotos {
 	width: 150px;
+	background: #2CA0A4;
 	height: 80px;
 	float: left;
 	margin: 10px;
