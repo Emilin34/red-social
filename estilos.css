@@ -59,6 +59,7 @@ h4 {
 #fotos{
 	height: 80px;
         background: #2CA0A4;
+        display: inline-block
 }
 .fotos {
 	width: 150px;
